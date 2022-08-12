@@ -1,0 +1,22 @@
+@font-face {
+    font-family:khmerFontMoul;
+    src: url('/../fonts/khmerMoul.ttf');
+}
+.app_font_titel{
+    font-family: khmerFontMoul!important;
+    line-height: 1rem;
+}
+img {
+     filter: saturate(1)!important;
+}
+
+.app_message{
+    width: 200px;
+    height: 80px;
+    padding: 8px;
+    position: fixed;
+    margin: 0 auto;
+    top: 10%;
+    left: 50%;
+  
+}
